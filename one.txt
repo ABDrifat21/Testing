@@ -1,0 +1,7 @@
+one
+
+<<<<<<< HEAD
+ha ha ha ki je kortesi confused
+=======
+one added 2ndly
+>>>>>>> master
