@@ -1,1 +1,3 @@
-vallage na
+vallage na,eita fetch korlam
+
+ebar ektu pull kore dekhi
